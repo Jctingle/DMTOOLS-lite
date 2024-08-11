@@ -1,0 +1,8 @@
+{
+    "files.autoGuessEncoding": true,
+    "java_home": "C:\\Program Files\\Java\\jdk-17",
+    "java.jdt.ls.vmargs": "-Dfile.ecoding=UTF-8",
+    "javac-linter.javac": "javac -Dfiles.encoding=UTF-8",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "disabled"
+}
